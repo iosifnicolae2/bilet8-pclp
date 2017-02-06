@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/bilet8_pclp.dir/main.cpp.o  -o bilet8_pclp 
